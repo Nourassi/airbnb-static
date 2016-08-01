@@ -6,6 +6,17 @@ seb:
   summary: Charming room in Montmartre
   city: Paris, France
   wifi: true
+  Property_type: Apartment
+  Room_type: Entire home/apt
+  bathrooms: 1
+  beds: 1
+  bedrooms: 1
+  bed_type: Real bed
+  accomodates: 2
+  TV: true
+  Welcomedrink: false
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  kitchen: true
 
 romain:
   owner_name: Romain
@@ -13,14 +24,14 @@ romain:
   owner_picture: romain.jpeg
   name: Romain's home
   summary: Nice flat in Piccadilly
-  Property type: Apartment
-  Room type: Entire home/apt
+  Property_type: Apartment
+  Room_type: Entire home/apt
   city: London, UK
   wifi: false
   bathrooms: 1
   beds: 1
   bedrooms: 1
-  bed-type: Real bed
+  bed_type: Real bed
   accomodates: 2
   TV: true
   Welcomedrink: true
@@ -34,4 +45,14 @@ anne:
   summary: Lovely house
   city: Brussels, Belgium
   wifi: true
-
+  Property_type: Apartment
+  Room_type: Entire home/apt
+  bathrooms: 1
+  beds: 1
+  bedrooms: 1
+  bed_type: Real bed
+  accomodates: 2
+  TV: true
+  Welcomedrink: true
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  kitchen: true
