@@ -1,0 +1,37 @@
+seb:
+  owner_name: Sebastien
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+
+romain:
+  owner_name: Romain
+  picture: card-london.jpeg
+  owner_picture: romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  Property type: Apartment
+  Room type: Entire home/apt
+  city: London, UK
+  wifi: false
+  bathrooms: 1
+  beds: 1
+  bedrooms: 1
+  bed-type: Real bed
+  accomodates: 2
+  TV: true
+  Welcomedrink: true
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+
+anne:
+  owner_name: Anne
+  picture: card-brussels.jpeg
+  owner_picture: anne.jpg
+  name: Anne's home
+  summary: Lovely house
+  city: Brussels, Belgium
+  wifi: true
+
